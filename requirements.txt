@@ -1,6 +1,6 @@
 absl-py==0.1.5
 enum34==1.1.6
-future==0.16.0
+future==1.0.0
 glfw==1.4.0
 lxml==4.1.1
 mock==2.0.0
